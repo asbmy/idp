@@ -1,3 +1,5 @@
-# idp
+# track me sun
 
-![](ammpro.gif)
+Automatic Sun Tracker using Arduin UNO
+
+![ammapro](ammpro.gif)
