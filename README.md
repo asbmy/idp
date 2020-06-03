@@ -2,4 +2,4 @@
 
 Automatic Sun Tracker using Arduin UNO
 
-![ammapro](ammpro.gif)
+![ammapro](ammapro.gif)
