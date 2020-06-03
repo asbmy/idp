@@ -3,7 +3,7 @@
 Automatic Sun Tracker using Arduino Uno Rev3
 
 * Programming Language: C
-* Microcontroller: Arduino UNO 
+* Microcontroller: Arduino Uno R3 
 * Tools: TinkerCAD
 
 Features:
